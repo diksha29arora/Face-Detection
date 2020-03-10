@@ -1,4 +1,2 @@
-# Face-Detection
-This project is used to detect faces using HaarCascade Classifier in Python. All you need to do is execute Face.py and program will start working.
-
-Happy Learning
+# Face Detection
+This project is used to detect faces using HaarCascade Classifier in Python. We just need to execute Face.py to get the real-time results.
